@@ -27,7 +27,9 @@ Bitcoin payments work better than ever. Turning that progress into everyday use 
 
 We don’t know which, if any, will work. That’s why we want to hear yours.
 
-**What we’re asking.** Our central question: what moonshot ideas would create a believable, viable plan to accelerate bitcoin payments adoption? To make it explicit: what would it take for a major platform such as Meta, Shopify, or OpenAI to accept bitcoin? Builders: propose ideas and test them. Payment providers: share data on how people pay. Funders: back the most promising experiments and help foster demand. This is a living document. Share your ideas or data in the [GitHub discussion](../../discussions/1), or reply to our posts on X, Stacker News or Delving Bitcoin. We’ll keep updating the report as we learn.
+**What we’re asking.** Our central question: what moonshot ideas would create a believable, viable plan to accelerate bitcoin payments adoption? To make it explicit: what would it take for a major platform such as Meta, Shopify, or OpenAI to accept bitcoin? Builders: propose ideas and test them. Payment providers: share data on how people pay. Funders: back the most promising experiments and help foster demand. 
+
+This is a living document. Share your ideas or data in the [GitHub discussion](../../discussions/1), or reply to our posts on X, Stacker News or Delving Bitcoin. We’ll keep updating the report as we learn.
 
 ## The open question
 
