@@ -4,7 +4,7 @@
 
 ## Summary
 
-“If [bitcoin] ends up just being digital gold, I think it’s failed,” Jack Dorsey [said in January 2025](https://www.youtube.com/watch?v=KyFkv5DGeUA&t=1250s). “If it ends up being a currency that people can use daily, then it’s succeeded.” Not everyone agrees. Many in bitcoin argue it must first succeed as a store of value, and that demand for payments will follow. So we start with a clear question: does the current path lead to irrelevance, or is it the expected grind of hardening bitcoin for the day it’s needed for payments? This report asks what is holding bitcoin payments back, and what moonshot ideas could speed up adoption.
+“If bitcoin ends up just being digital gold, I think it’s failed,” Jack Dorsey [said in January 2025](https://www.youtube.com/watch?v=KyFkv5DGeUA&t=1250s). “If it ends up being a currency that people can use daily, then it’s succeeded.” Not everyone agrees. Many in bitcoin argue it must first succeed as a store of value, and that demand for payments will follow. So we start with a clear question: does the current path lead to irrelevance, or is it the expected grind of hardening bitcoin for the day it’s needed for payments? This report asks what is holding bitcoin payments back, and what moonshot ideas could speed up adoption.
 
 Bitcoin payments work better than ever. Turning that progress into everyday use remains the challenge, and the time to move is now, as stablecoins are ready to gain rapid adoption.
 
