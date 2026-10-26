@@ -1,0 +1,31 @@
+name: Correction
+description: Flag a claim that's wrong, outdated or missing context
+title: "[Correction]: "
+labels: ["correction"]
+body:
+  - type: textarea
+    id: claim
+    attributes:
+      label: The claim
+      description: Quote the text from the report.
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What's wrong with it
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Link to evidence, ideally a primary source.
+    validations:
+      required: false
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested wording
+    validations:
+      required: false

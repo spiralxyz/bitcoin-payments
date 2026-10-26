@@ -1,0 +1,49 @@
+name: Moonshot idea
+description: Propose a change big enough to shift bitcoin payments adoption
+title: "[Idea]: "
+labels: ["moonshot idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing an idea. It doesn't need to be finished. A clear problem and a proposed change are enough to start.
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What would you change or build?
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What it solves
+      description: Which blocker in the report does it address, or what's missing from the report?
+    validations:
+      required: true
+  - type: dropdown
+    id: path
+    attributes:
+      label: Closest path in the report
+      options:
+        - Shared rails
+        - Payments for people who need them most
+        - New reasons to spend
+        - New ways to spend
+        - Something else
+    validations:
+      required: false
+  - type: textarea
+    id: who
+    attributes:
+      label: Who could make it happen
+      description: Builders, payment providers, funders, platforms, policymakers?
+    validations:
+      required: false
+  - type: textarea
+    id: measure
+    attributes:
+      label: How we'd know it's working
+      description: What would you measure?
+    validations:
+      required: false

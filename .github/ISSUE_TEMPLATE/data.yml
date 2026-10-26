@@ -1,0 +1,29 @@
+name: Share data
+description: Share data on how people pay with bitcoin
+title: "[Data]: "
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Public data on bitcoin payments is thin, so any figures help. Only share what you're comfortable making public. Issues in this repository are visible to everyone.
+  - type: textarea
+    id: data
+    attributes:
+      label: The data
+      description: For example, payment volumes, growth, active merchants or success rates. Include the time period and region.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Where it comes from (your company, a public dataset, a report). Link it if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: What it supports or challenges in the report
+    validations:
+      required: false
