@@ -124,7 +124,7 @@ Bitcoin and stablecoins each have strengths in different areas. The table compar
 | Payments private from providers and governments | Partial | ✗ | No | Modest improvement |
 | **Ease of use** |  |  |  |  |
 | Easy for developers (custodial) | ✓ | ✓ | Yes | Big improvement |
-| Easy for developers (self-custodial, at scale) | Partial | ✓ | Yes | Big improvement |
+| Easy for developers (self-custodial, at scale) | Mostly | ✓ | Yes | Big improvement |
 | Easy for users | ✓ | ✓ | Yes | Big improvement |
 | Low fees | ✓ | ✓ | Yes | Big improvement |
 | Scales to many payments | ✓ | ✓ | Yes | Big improvement |
