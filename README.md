@@ -120,9 +120,11 @@ Bitcoin and stablecoins each have strengths in different areas. The table compar
 | Anyone can start using it without ID checks | ✓ | ✓ | Yes | Holding strong |
 | No issuer can require ID checks later | ✓ | ✗ | No | Holding strong |
 | No one can block payments | ✓ | ✗ | No | Holding strong |
-| Privacy | Partial | Coming soon? | Not yet? | Modest improvement |
+| Payments private from the public | Partial | Partial | Yes | Modest improvement |
+| Payments private from providers and governments | Partial | ✗ | No | Modest improvement |
 | **Ease of use** |  |  |  |  |
-| Easy for developers | ✓ | ✓ | Yes | Big improvement |
+| Easy for developers (custodial) | ✓ | ✓ | Yes | Big improvement |
+| Easy for developers (self-custodial, at scale) | Partial | ✓ | Yes | Big improvement |
 | Easy for users | ✓ | ✓ | Yes | Big improvement |
 | Low fees | ✓ | ✓ | Yes | Big improvement |
 | Scales to many payments | ✓ | ✓ | Yes | Big improvement |
