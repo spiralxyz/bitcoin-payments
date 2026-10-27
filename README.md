@@ -94,7 +94,7 @@ Bitcoin hasn’t delivered peer-to-peer payments that are fully trust-minimized,
 - **Holders would rather save than spend:** most holders treat bitcoin as savings and avoid spending an asset they expect to appreciate, and most consumers already have cards that work well.
 - **Culture and marketing:** bitcoin is marketed, and celebrated by its own community, as something to buy and hold. “Never sell your bitcoin” leaves little room for spending it, and pitching “bitcoin” to mainstream users carries baggage that a plain payment option doesn’t.
 - **Too few customers for merchants:** for merchants, the benefit is lower fees and faster settlement, not holding bitcoin. But with little consumer demand, few see enough volume to justify integrating, and few payment processors and e-commerce platforms offer bitcoin by default.
-- **New payment platforms leave it out:** products where digital payments are taking off, such as AI agents, are launching with cards, wallets, and stablecoins rather than bitcoin or Lightning, so users never see bitcoin as an option.
+- **New payment platforms leave it out:** products where digital payments are taking off, such as AI agents, are launching with cards, wallets, and stablecoins rather than bitcoin or Lightning, so their users never see bitcoin as an option. The reasons are rarely about one thing. Some are the blockers in this section: little demand from users or merchants, volatility, and tax and regulatory uncertainty. Others are specific to the companies doing the integrating. Stablecoin issuers can share revenue from the yield on their reserves with partners, and bitcoin has nothing equivalent to offer. Bitcoin’s reputation makes some partners wary. And self-custodial bitcoin is still harder to integrate than custodial options, even with newer tools such as [Spark](https://www.spark.money/).
 
 **Volatility and competition**
 
@@ -197,5 +197,6 @@ This is a living document. Share your ideas or data in the [GitHub discussion](.
 - [Google Cloud: Announcing Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 - [Stripe: Introducing the Machine Payments Protocol](https://stripe.com/blog/machine-payments-protocol)
 - [The Paypers: PayPal partners with Meta to bring checkout to Muse AI agent](https://thepaypers.com/payments/news/paypal-partners-with-meta-to-bring-checkout-to-muse-ai-agent)
+- [Spark: Bitcoin’s Payment Layer for Stablecoins & Instant BTC](https://www.spark.money/)
 - [IRS: Notice 2014-21](https://www.irs.gov/pub/irs-drop/n-14-21.pdf)
 - [Congress.gov: H.R. 3633, CLARITY Act](https://www.congress.gov/bill/119th-congress/house-bill/3633)
