@@ -1,5 +1,7 @@
 # The Long Road to Bitcoin Payments
 
+![A dollar bill twisting into a bitcoin coin](images/header.jpg)
+
 *Why bitcoin payments haven’t taken off, and a call for moonshot ideas that could change that*
 
 ## Summary
