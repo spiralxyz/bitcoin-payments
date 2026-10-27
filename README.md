@@ -1,4 +1,4 @@
-# The long road to bitcoin payments
+# The Long Road to Bitcoin Payments
 
 *Why bitcoin payments haven’t taken off, and a call for moonshot ideas that could change that*
 
